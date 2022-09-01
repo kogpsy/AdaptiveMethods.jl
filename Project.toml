@@ -1,0 +1,4 @@
+name = "AdaptiveMethods"
+uuid = "9120925e-24a8-4438-b505-fbdd9d425fa6"
+authors = ["Daniel Fitze <daniel.fitze@psy.unibe.ch>"]
+version = "0.1.0"
